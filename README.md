@@ -46,6 +46,11 @@ FACE-UI 是一个基于前后端分离架构的Web端项目，专注于提供网
   - `npm run serve` 运行服务
   - 浏览器初次访问时需授权摄像头权限
 
+## 📘 演示讲解
+
+详细使用教程请参见：[face-ui 详细使用教程](https://blog.csdn.net/Susan003/article/details/125920408)
+
+
 ## 📚 如何配置腾讯云？
 
 为了使用腾讯云人脸对比API，您需要进行一些配置。详情请参考[官方文档](https://blog.csdn.net/Susan003/article/details/125914027?spm=1001.2014.3001.5502)。
