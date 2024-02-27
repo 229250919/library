@@ -53,6 +53,7 @@ public class FaceContrastServer {
         } catch (TencentCloudSDKException e) {
             faceResult.setCode(FaceResult.FACE_ERROR);
             faceResult.setMsg(e.getMessage());
+            e.printStackTrace();
         }
         return faceResult;
     }
