@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./logo.png" width="380" height="140" alt="easy-jenkins logo" title="Easy Jenkins - 一键部署工具" />
+    <img src="./logo.png" width="140" height="140" alt="easy-jenkins logo" title="Easy Jenkins - 一键部署工具" />
 </p>
 <h1 align="center">FACE-UI</h1>
 
